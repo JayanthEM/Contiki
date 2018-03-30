@@ -2,7 +2,7 @@ Mobility COOJA plugin
 
 (Clarification: Fredrik Osterlind is the author of the mobility-plugin and I have
 his permission to attach it and distribute it in this Contiki project.)
-When I (Marcus Lunden) wanted to evaluate a communication primitive that I hypo-
+When I wanted to evaluate a communication primitive that I hypo-
 thesized being particularly well suited for low latency neighbor discovery, I
 needed a way to make the nodes in the simulation move. Unfortunately, there is no
 built in function for this in the version of COOJA that can be obtained from the
